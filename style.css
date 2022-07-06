@@ -70,4 +70,42 @@ body{
     background: #FF5959;
     color: #ffff;
     padding: 10px 40px;
+    display:inline-block;
+}
+/*uuuuuuuuu*/
+.dp{
+    margin-top:100px;
+}
+.dp-heading{
+    text-align:center;
+}
+.dp-heading h1{
+    margin:30px;
+}
+.food-for-family{
+    margin-top: 50px;
+}
+.food-family-blog{
+    background-color: #4F9DA6;
+    padding:60px 30px ;
+    margin-right: 2%;
+}
+.food-family-blog h1{
+    padding: 20px 0px;
+}
+.food-family-blog-one{
+    background-color: #FF5959;
+    padding:60px 30px ;
+    margin-right: 2%;
+}
+.food-family-blog-one h1{
+    padding: 20px 0px;
+}
+.food-family-blog-two{
+    background-color: #FF5930;
+    padding:60px 30px ;
+    margin-right: 2%;
+}
+.food-family-blog-two h1{
+    padding: 20px 0px;
 }

@@ -130,9 +130,12 @@ body{
 .lives-img img{
     width:97%;
     height:500px;
+    border-radius: 4px;
     
 }
-
+.live-one{
+    margin-left:5%;
+}
 .lives  a{
     text-decoration: none;
     background: #FF5959;

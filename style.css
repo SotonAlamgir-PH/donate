@@ -1,207 +1,256 @@
-*{
-    margin:0;
+* {
+    margin: 0;
     padding: 0;
 }
-body{
+
+body {
     font-family: 'Montserrat', sans-serif;
 }
-.flex{
+
+.flex {
     display: flex;
 }
-.half-width{
-    width:50%;
+
+.half-width {
+    width: 50%;
 }
+
 .header-area {
-    background-image: linear-gradient(white,#0000006b), url(../assisgnment-1/images/donation12.png);
+    background-image: linear-gradient(white, #0000006b), url(../assisgnment-1/images/donation1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
-.container{
-    width:80%;
-    margin:0 auto;
+
+.container {
+    width: 80%;
+    margin: 0 auto;
 }
-.donate-today{
+
+.donate-today {
     text-align: center;
-    color:#fff;
+    color: #fff;
     padding: 150px;
 }
-.donate-today h1{
-    font-size:60px;
+
+.donate-today h1 {
+    font-size: 60px;
 }
-.donate-today p{
-    font-size:15px;
+
+.donate-today p {
+    font-size: 15px;
     padding: 30px 0px;
 }
+
 .donate-today a {
     text-decoration: none;
     background: #FF5959;
     color: #ffff;
     padding: 10px 40px;
 }
+
 /*uuuuuuuuu*/
-.donate-money{
+.donate-money {
     text-align: center;
 }
-.donate-heading{
-    margin-top:100px;
+
+.donate-heading {
+    margin-top: 100px;
 }
-.donate-heading p{
+
+.donate-heading p {
     padding: 30px 0px;
-    color:#707070
+    color: #707070
 }
-.donate-amaount{
-    margin-left:10%;
-    padding:50px 0px;
+
+.donate-amaount {
+    margin-left: 10%;
+    padding: 50px 0px;
 }
-.one{
+
+.one {
     padding: 50px 40px;
     background: #FAFAFA;
     margin-right: 2%;
-    color:#707070;
+    color: #707070;
 }
-.one:hover{
-    color:#FF5959;
+
+.one:hover {
+    color: #FF5959;
     background-color: #FFEEEE;
 }
-.offer-amount hr{
+
+.offer-amount hr {
     margin: 20px 0px;
-    width:50%;
-    margin-left:22%;
+    width: 50%;
+    margin-left: 22%;
 }
-.offer-amount a{
+
+.offer-amount a {
     text-decoration: none;
     background: #FF5959;
     color: #ffff;
     padding: 10px 40px;
-    display:inline-block;
+    display: inline-block;
 }
+
 /*uuuuuuuuu*/
-.dp{
-    margin-top:100px;
+.dp {
+    margin-top: 100px;
 }
-.dp-heading{
-    text-align:center;
+
+.dp-heading {
+    text-align: center;
 }
-.dp-heading h1{
-    margin:30px;
+
+.dp-heading h1 {
+    margin: 30px;
 }
-.food-for-family{
+
+.food-for-family {
     margin-top: 50px;
 }
-.food-family-blog{
+
+.food-family-blog {
     background-color: #4F9DA6;
-    padding:60px 30px ;
+    padding: 60px 30px;
     margin-right: 2%;
 }
-.food-family-blog h1{
+
+.food-family-blog h1 {
     padding: 20px 0px;
 }
-.food-family-blog-one{
+
+.food-family-blog-one {
     background-color: #FF5959;
-    padding:60px 30px ;
+    padding: 60px 30px;
     margin-right: 2%;
 }
-.food-family-blog-one h1{
+
+.food-family-blog-one h1 {
     padding: 20px 0px;
 }
-.food-family-blog-two{
+
+.food-family-blog-two {
     background-color: #FF5930;
-    padding:60px 30px ;
+    padding: 60px 30px;
     margin-right: 2%;
 }
-.food-family-blog-two h1{
+
+.food-family-blog-two h1 {
     padding: 20px 0px;
 }
+
 /*uuuuuuuuu*/
-.hard-lives{
-    margin-top:100px;
+.hard-lives {
+    margin-top: 100px;
 }
-.lives{
+
+.lives {
     margin-right: 2%;
-    margin-top:150px;
+    margin-top: 150px;
 }
-.lives h1{
+
+.lives h1 {
     font-size: 50px;
 }
-.lives p{
+
+.lives p {
     font-size: 15px;
-    padding:20px 6px;
+    padding: 20px 6px;
 }
-.lives-img img{
-    width:97%;
-    height:500px;
+
+.lives-img img {
+    width: 97%;
+    height: 500px;
     border-radius: 4px;
-    
+
 }
-.live-one{
-    margin-left:5%;
+
+.live-one {
+    margin-left: 5%;
 }
-.lives  a{
+
+.lives a {
     text-decoration: none;
     background: #FF5959;
     color: #ffff;
     padding: 10px 40px;
-    display:inline-block;
+    display: inline-block;
 }
+
 /*uuuuuuuuu*/
-.choice{
-    margin-top:100px;
+.choice {
+    margin-top: 100px;
 }
-.choice-heading{
-   text-align:center;
+
+.choice-heading {
+    text-align: center;
 }
-.chose-cause{
+
+.chose-cause {
     padding-top: 50px;
     text-align: center;
-    margin-left:5%;
+    margin-left: 5%;
 }
-.reson-one{
+
+.reson-one {
     text-align: center;
     padding: 20px;
     background-color: #4F9DA6;
-    margin-right:2%;
+    margin-right: 2%;
 }
+
 /*uuuuuuuuu*/
-.update{
-    margin-top:100px;
+.update {
+    margin-top: 100px;
 }
-.update-text{
+
+.update-text {
     text-align: center;
 }
-.update-text p{
+
+.update-text p {
     padding: 30px 0px;
 }
-.subscribe{
+
+.subscribe {
     background-color: #FFF4D6;
     text-align: center;
     padding: 50px 20px;
     display: flex;
 }
-.input{
-    margin-left:40%;
+
+.input {
+    margin-left: 40%;
 }
+
 .input input[type="email"] {
     height: 40px;
     background-color: #D9D9D9;
-    border:none;
+    border: none;
     border-radius: 4px;
 }
-.submit  a{
+
+.submit a {
     text-decoration: none;
     background: #FF5959;
     color: #ffff;
     padding: 10px 40px;
-    display:inline-block;
+    display: inline-block;
 }
+
 /*uuuuuuuuu*/
-footer{
+footer {
     background-color: #000;
     margin-top: 100px;
 }
-.footer-text{
+
+.footer-text {
     text-align: center;
     padding: 50px 0px;
 }
-.footer-text h1,h4{
-    color:#FF5959;
+
+.footer-text h1,
+h4 {
+    color: #FF5959;
 }

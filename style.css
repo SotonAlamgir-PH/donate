@@ -8,6 +8,9 @@ body{
 .flex{
     display: flex;
 }
+.half-width{
+    width:50%;
+}
 .header-area {
     background-image: linear-gradient(white,#0000006b), url(../assisgnment-1/images/Rectangle\ 237.png);
     background-repeat: no-repeat;
@@ -109,3 +112,32 @@ body{
 .food-family-blog-two h1{
     padding: 20px 0px;
 }
+/*uuuuuuuuu*/
+.hard-lives{
+    margin-top:100px;
+}
+.lives{
+    margin-right: 2%;
+    margin-top:150px;
+}
+.lives h1{
+    font-size: 50px;
+}
+.lives p{
+    font-size: 15px;
+    padding:20px 6px;
+}
+.lives-img img{
+    width:97%;
+    height:500px;
+    
+}
+
+.lives  a{
+    text-decoration: none;
+    background: #FF5959;
+    color: #ffff;
+    padding: 10px 40px;
+    display:inline-block;
+}
+/*uuuuuuuuu*/

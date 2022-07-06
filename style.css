@@ -144,3 +144,20 @@ body{
     display:inline-block;
 }
 /*uuuuuuuuu*/
+.choice{
+    margin-top:100px;
+}
+.choice-heading{
+   text-align:center;
+}
+.chose-cause{
+    padding-top: 50px;
+    text-align: center;
+    margin-left:5%;
+}
+.reson-one{
+    text-align: center;
+    padding: 20px;
+    background-color: #4F9DA6;
+    margin-right:2%;
+}

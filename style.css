@@ -5,6 +5,9 @@
 body{
     font-family: 'Montserrat', sans-serif;
 }
+.flex{
+    display: flex;
+}
 .header-area {
     background-image: linear-gradient(white,#0000006b), url(../assisgnment-1/images/Rectangle\ 237.png);
     background-repeat: no-repeat;
@@ -27,6 +30,42 @@ body{
     padding: 30px 0px;
 }
 .donate-today a {
+    text-decoration: none;
+    background: #FF5959;
+    color: #ffff;
+    padding: 10px 40px;
+}
+/*uuuuuuuuu*/
+.donate-money{
+    text-align: center;
+}
+.donate-heading{
+    margin-top:100px;
+}
+.donate-heading p{
+    padding: 30px 0px;
+    color:#707070
+}
+.donate-amaount{
+    margin-left:10%;
+    padding:50px 0px;
+}
+.one{
+    padding: 50px 40px;
+    background: #FAFAFA;
+    margin-right: 2%;
+    color:#707070;
+}
+.one:hover{
+    color:#FF5959;
+    background-color: #FFEEEE;
+}
+.offer-amount hr{
+    margin: 20px 0px;
+    width:50%;
+    margin-left:22%;
+}
+.offer-amount a{
     text-decoration: none;
     background: #FF5959;
     color: #ffff;
